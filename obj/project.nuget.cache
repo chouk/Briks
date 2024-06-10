@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7V6k7O2ccU4GwfMj5tWu9Wb/PVXksdHUemJbldl3xxw4jvpUF8pwIeNMAFc0iy0zi4TaghsaOp1zDib4U+ZUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chouk\\OneDrive\\Bureau\\Briks\\Briks.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chouk\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
